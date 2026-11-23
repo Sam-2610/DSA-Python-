@@ -8,4 +8,5 @@ def delete_head(head):
         return None
     return head.next
 
-    
+
+"""Space Complexity (SC): (O(1), Time Complexity (TC): (O(1)"""
